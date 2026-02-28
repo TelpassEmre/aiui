@@ -1,0 +1,11 @@
+/vendor/
+/config/app.php
+/uploads/txt/*
+/uploads/srt/*
+/uploads/temp/*
+/logs/*.log
+/storage/*
+.env
+*.env
+.DS_Store
+Thumbs.db
